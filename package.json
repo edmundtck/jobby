@@ -4,6 +4,9 @@
   "main": "app.js",
   "author": "wdi13",
   "license": "MIT",
+  "scripts" :{
+    "start" : "node app.js"
+  },
   "dependencies": {
     "bcrypt": "^1.0.3",
     "body-parser": "^1.18.2",
